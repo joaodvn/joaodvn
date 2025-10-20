@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+## My name is João Vincenzo 😌, I'm a programming enthusiast, having been working for over 20 years. I always seek the best solutions to problems. 😎. 
+## I love new challenges. 
+#### FullStack Developer: Infrastructure, backend, frontend and App Development skills.😌
 
 <!--
-**joaodvn/joaodvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on international projects on Integer
+- 🌱 I’m currently learning new sintaxes every day
+- 💬 Ask me about code, orienteering and another things
+- 📫 How to reach me: https://www.linkedin.com/in/joaodvn/
+- 😄 Pronouns: peckynho, vincenzo, vzo
+- ⚡ Fun fact: I like to tell jokes
 -->
